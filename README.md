@@ -1,10 +1,10 @@
 # 🤖 Telegram Admin Bot
 
-![GitHub stars](https://img.shields.io/github/stars/alexstudiocode/telegram-admin-bot?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/alexstudiocode/telegram-admin-bot?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/alexstudiocode/telegram-admin-bot?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/AlexGame2012/Admin_Bot?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/AlexGame2012/Admin_Bot?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/AlexGame2012/Admin_Bot?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue?style=for-the-badge)
-![License](https://img.shields.io/github/license/alexstudiocode/telegram-admin-bot?style=for-the-badge)
+![License](https://img.shields.io/github/license/AlexGame2012/Admin_Bot?style=for-the-badge)
 
 Многофункциональный **Telegram-бот для администрирования чатов**: варны, муты, баны, репорты и приветствие новых участников.
 
