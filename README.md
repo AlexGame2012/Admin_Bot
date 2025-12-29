@@ -111,7 +111,7 @@ python bot.py
 
 ## 📄 Лицензия
 
-MIT License © alexstudiocode
+MIT License © AlexStudio Code
 
 ---
 
